@@ -5,7 +5,6 @@ simple-image-preview
  
  * Powered by jQuery (http://www.jquery.com)
  * Originally written by Alen Grakalic (http://cssglobe.com/post/1695/easiest-tooltip-and-image-preview-using-jquery)
- * Modified by Sergio G (https://github.com/bearwebua/)
 
 Improvements:
 -------------
